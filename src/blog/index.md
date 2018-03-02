@@ -15,3 +15,5 @@ See the hub [CONTRIBUTING page](https://github.com/galaxyproject/galaxy-hub/tree
 
 # Here's what people are saying
 
+I wish you all very happy Holi! In midst of festivity and celebration I am feeling glad to mention few contributions to GALAXY development. Glactic blog has been a good place to put our technical experiences well blanded with our routine ones. I will mention 
+what I gone through learning GALAXY through-out my M.Tech study and ahead. 
